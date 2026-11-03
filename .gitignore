@@ -152,7 +152,6 @@ typings/
 
 
 ### VisualStudioCode template
-.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -327,7 +326,6 @@ tags
 [Ll]ib64
 pyvenv.cfg
 pip-selfcheck.json
-.env
 
 
 ### Project template
@@ -339,7 +337,6 @@ care/media/*
 .pytest_cache/
 
 
-.env
 .envs/*
 !.envs/.local/
 
@@ -363,3 +360,4 @@ care_db.dump
 .nix-data
 
 import/
+config.bat
